@@ -1,0 +1,13 @@
+main.pbi: \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code/tm4c123gh6pm.h \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code/defs.h \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code/gpio.h \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code/timers.h \
+  D:\College\Computer\ Engineering\ and\ Software\ Systems\Fall\ 2020\Microcontrollers\ and\ Interfacing\Project\Submitted\Code/uart.h
